@@ -1,0 +1,64 @@
+.container {
+  padding: 40px;
+
+  background: #fff;
+  max-width: 400px;
+  box-shadow: 0px 8px 24px 0px rgba(0, 0, 0, 0.08);
+
+  border-radius: 8px;
+  border: 1px solid #e7e6eb;
+}
+
+.img {
+  display: block;
+
+  margin: 0 auto;
+}
+
+.price {
+  margin-top: 24px;
+
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.title {
+  margin-top: 16px;
+
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.description {
+  margin-top: 8px;
+
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.choose {
+  margin-top: 24px;
+
+  color: #666;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+  margin-top: 32px;
+}
+
+.linkToReviews {
+  display: block;
+
+  margin-top: 32px;
+
+  color: #61a5fa;
+  font-size: 16px;
+  line-height: 150%;
+  text-decoration-line: underline;
+}
